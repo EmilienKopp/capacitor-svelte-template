@@ -9,7 +9,7 @@
 </script>
 
 <div>
-    <h1>Geolocation</h1>
+    <h1 class="text-red-300">Geolocation</h1>
     <p>Your location is:</p>
     <p>Latitude: {loc?.coords.latitude}</p>
     <p>Longitude: {loc?.coords.longitude}</p>
